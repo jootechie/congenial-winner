@@ -1,0 +1,41 @@
+# Vendas Automáticas
+
+Este é um projeto de desenvolvimento de um bot de vendas automáticas, uma solução inovadora para facilitar o processo de compra e venda online. O bot oferece uma variedade de funcionalidades para ajudar os usuários a descobrir, comprar e acompanhar produtos de forma conveniente.
+
+## Funcionalidades Principais
+
+- **Recomendações Personalizadas**: Com base no histórico de compras e preferências do usuário, o bot recomenda produtos relevantes.
+  
+- **Alertas de Promoção**: Notifica os usuários sobre promoções, descontos e ofertas especiais em produtos.
+  
+- **Suporte ao Cliente Automatizado**: Responde a perguntas comuns dos usuários sobre produtos, políticas de entrega, devoluções, etc.
+  
+- **Acompanhamento de Preços**: Monitora os preços dos produtos desejados pelos usuários e notifica sobre mudanças de preço.
+  
+- **Lembrete de Carrinho Abandonado**: Envia lembretes aos usuários que abandonaram itens no carrinho de compras.
+  
+- **Atualizações de Estoque**: Notifica os usuários quando os produtos esgotados voltam ao estoque.
+
+## Tecnologias Utilizadas
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- Linguagem de Programação: Python
+- Framework de Chatbot: Rasa
+- Plataforma de Hospedagem: Heroku
+
+## Instalação e Uso
+
+Para instalar e utilizar o bot, siga as instruções abaixo:
+
+1. Clone este repositório em sua máquina local.
+2. Instale as dependências do projeto usando o gerenciador de pacotes de sua escolha (por exemplo, pip para Python).
+3. Execute o bot localmente ou implante-o em uma plataforma de hospedagem na nuvem.
+
+## Contribuição
+
+Sinta-se à vontade para contribuir para o desenvolvimento deste projeto. Se você encontrar problemas ou tiver sugestões de melhorias, abra uma issue ou envie uma solicitação de pull request.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
